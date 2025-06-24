@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Chivo';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(http://fonts.gstatic.com/s/chivo/v20/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1FrRPXk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(http://fonts.gstatic.com/s/chivo/v20/va9b4kzIxd1KFppkaRKvDRPJVDf_4h_ekGrW.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(http://fonts.gstatic.com/s/chivo/v20/va9b4kzIxd1KFppkaRKvDRPJVDf_vB_ekGrW.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(http://fonts.gstatic.com/s/chivo/v20/va9b4kzIxd1KFppkaRKvDRPJVDf_WxjekGrW.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(http://fonts.gstatic.com/s/inconsolata/v36/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32kg.ttf) format('truetype');
+}
