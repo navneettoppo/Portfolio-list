@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html lang="en-US">
 	
-<!-- Mirrored from navdemo1/demo/angio/demo1/wp-login.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 15:58:55 GMT -->
+<!-- Mirrored from rascalsthemes.com/demo/angio/demo1/wp-login.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 15:58:55 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -26,7 +26,7 @@ document.body.className = document.body.className.replace('no-js','js');
 			<div id="login">
 		<h1 role="presentation" class="wp-login-logo"><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 	
-		<form name="loginform" id="loginform" action="https://navdemo1/demo/angio/demo1/wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="https://rascalsthemes.com/demo/angio/demo1/wp-login.php" method="post">
 			<p>
 				<label for="user_login">Username or Email Address</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" autocomplete="username" required="required" />
@@ -44,7 +44,7 @@ document.body.className = document.body.className.replace('no-js','js');
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
-									<input type="hidden" name="redirect_to" value="https://navdemo1/demo/angio/demo1/wp-admin/" />
+									<input type="hidden" name="redirect_to" value="https://rascalsthemes.com/demo/angio/demo1/wp-admin/" />
 									<input type="hidden" name="testcookie" value="1" />
 			</p>
 		</form>
@@ -67,7 +67,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }
 <script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="text/javascript" id="zxcvbn-async-js-extra">
 /* <![CDATA[ */
-var _zxcvbnSettings = {"src":"https:\/\/navdemo1\/demo\/angio\/demo1\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"https:\/\/rascalsthemes.com\/demo\/angio\/demo1\/wp-includes\/js\/zxcvbn.min.js"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="wp-includes/js/zxcvbn-async.min5152.js?ver=1.0" id="zxcvbn-async-js"></script>
@@ -101,6 +101,6 @@ var userProfileL10n = {"user_id":"0","nonce":"0075b8d472"};
 <script type="text/javascript" src="wp-admin/js/user-profile.mind1c0.js?ver=6.7.2" id="user-profile-js"></script>
 	</body>
 	
-<!-- Mirrored from navdemo1/demo/angio/demo1/wp-login.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 15:58:55 GMT -->
+<!-- Mirrored from rascalsthemes.com/demo/angio/demo1/wp-login.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Jun 2025 15:58:55 GMT -->
 </html>
 	
