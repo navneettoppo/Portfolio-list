@@ -1,9 +1,9 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-rascalsthemes.com	TRUE	/demo/angio/demo1/	FALSE	1999999999	woocommerce_items_in_cart	1
-rascalsthemes.com	TRUE	/demo/angio/demo1/	FALSE	1999999999	wp_woocommerce_session_81ef3eca9a0db30776131c5ee9dc5b57	t_9a8d6c7110cb95a5d376681fb13a38%7C%7C1750952952%7C%7C1750949352%7C%7Ca12feec7d430e3d0f2bc720311089e29
-rascalsthemes.com	TRUE	/demo/angio/demo1/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
-rascalsthemes.com	TRUE	/demo/angio/demo1/	FALSE	1999999999	woocommerce_cart_hash	c51016f792d429ed6b54af0575a75b90
+navdemo1	TRUE	/demo/angio/demo1/	FALSE	1999999999	woocommerce_items_in_cart	1
+navdemo1	TRUE	/demo/angio/demo1/	FALSE	1999999999	wp_woocommerce_session_81ef3eca9a0db30776131c5ee9dc5b57	t_9a8d6c7110cb95a5d376681fb13a38%7C%7C1750952952%7C%7C1750949352%7C%7Ca12feec7d430e3d0f2bc720311089e29
+navdemo1	TRUE	/demo/angio/demo1/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+navdemo1	TRUE	/demo/angio/demo1/	FALSE	1999999999	woocommerce_cart_hash	c51016f792d429ed6b54af0575a75b90
 .vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	51q9QET.V5ZKu7y70iPuQ9.lnmCD34D_.gYF6oGqYTo-1750780199-1.0.1.1-ElNi8ywQ4Bjee1SRs4FkuWKYtJEyP_noP89nWyEsmzfR9PezfrX8vXecNmfzMfnw
 .vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	MOeft.SMFZ7QXin.FCu0fv7QtYaJYxeT5XwzDGrOB9c-1750780199114-0.0.1.1-604800000
 player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
