@@ -3164,26 +3164,31 @@ body:not(.elementor-editor-active).is-scroll-animations .audio-player__item {
 .bg-player__eq .eq-bar1 {
     left: 0;
     height: 14px;
+    animation: anim__eq-bar .3s alternate infinite;
 }
 
 .bg-player__eq .eq-bar2 {
     left: 3px;
     height: 12px;
+    animation: anim__eq-bar .4s alternate infinite;
 }
 
 .bg-player__eq .eq-bar3 {
     left: 6px;
     height: 10px;
+    animation: anim__eq-bar .38s alternate infinite;
 }
 
 .bg-player__eq .eq-bar4 {
     left: 9px;
     height: 8px;
+    animation: anim__eq-bar .34s alternate infinite;
 }
 
 .bg-player__eq .eq-bar5 {
     right: 0;
     height: 6px;
+    animation: anim__eq-bar .44s alternate infinite;
 }
 
 .bg-player.playing .eq-bar1 {
